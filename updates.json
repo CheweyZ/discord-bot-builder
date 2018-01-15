@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
     "readme": "A release",
-    "update": "https://github.com/CheweyZ/discord-bot-builder/releases/download/v0.0.1/bot_builder-0.0.1-full",
-    "install": "https://github.com/CheweyZ/discord-bot-builder/releases/download/v0.0.1/bot-builder-0.0.1.Setup.exe",
-    "version": "0.0.1"
+    "update": "https://github.com/CheweyZ/discord-bot-builder/releases/download/v0.0.2/bot_builder-0.0.2-full",
+    "install": "https://github.com/CheweyZ/discord-bot-builder/releases/download/v0.0.2/bot-builder-0.0.2.Setup.exe",
+    "version": "0.0.2"
   }
 }
